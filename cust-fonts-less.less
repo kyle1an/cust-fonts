@@ -86,7 +86,8 @@
   @dir: @tar[dir];
   @ext: @tar[ext];
   @format: @formats[@@ext];
-  src: if(@local, local('@{nam} @{weight-key}@{style-val}') e(','),) url("@{repo}@{dir}@{weight-key}@{style-val}.@{ext}") format('@{format}');
+  @italic: if(@style-val='', e(''), ' Italic');
+  src: if(@local, local('@{nam} @{weight-key}@{italic}') e(','),) url("@{repo}@{dir}@{weight-key}@{style-val}.@{ext}") format('@{format}');
 }
 
 .load-local(@zhFamilies, @tarCM, @allWeights, @zhUnicode, @styles);

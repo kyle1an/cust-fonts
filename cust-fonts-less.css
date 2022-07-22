@@ -7080,7 +7080,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7096,7 +7096,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7112,7 +7112,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7128,7 +7128,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7144,7 +7144,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7160,7 +7160,7 @@
 }
 @font-face {
   font-family: 'SFMono-Regular';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7176,7 +7176,7 @@
 }
 @font-face {
   font-family: 'SFMono-Regular';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7192,7 +7192,7 @@
 }
 @font-face {
   font-family: 'SFMono-Regular';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7208,7 +7208,7 @@
 }
 @font-face {
   font-family: 'SFMono-Regular';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7224,7 +7224,7 @@
 }
 @font-face {
   font-family: 'SFMono-Regular';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7240,7 +7240,7 @@
 }
 @font-face {
   font-family: 'Cascadia Mono-SemiLight';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7256,7 +7256,7 @@
 }
 @font-face {
   font-family: 'Cascadia Mono-SemiLight';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7272,7 +7272,7 @@
 }
 @font-face {
   font-family: 'Cascadia Mono-SemiLight';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7288,7 +7288,7 @@
 }
 @font-face {
   font-family: 'Cascadia Mono-SemiLight';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7304,7 +7304,7 @@
 }
 @font-face {
   font-family: 'Cascadia Mono-SemiLight';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7320,7 +7320,7 @@
 }
 @font-face {
   font-family: Consolas;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7336,7 +7336,7 @@
 }
 @font-face {
   font-family: Consolas;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7352,7 +7352,7 @@
 }
 @font-face {
   font-family: Consolas;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7368,7 +7368,7 @@
 }
 @font-face {
   font-family: Consolas;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7384,7 +7384,7 @@
 }
 @font-face {
   font-family: Consolas;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7400,7 +7400,7 @@
 }
 @font-face {
   font-family: Courier;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7416,7 +7416,7 @@
 }
 @font-face {
   font-family: Courier;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7432,7 +7432,7 @@
 }
 @font-face {
   font-family: Courier;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7448,7 +7448,7 @@
 }
 @font-face {
   font-family: Courier;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7464,7 +7464,7 @@
 }
 @font-face {
   font-family: Courier;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7480,7 +7480,7 @@
 }
 @font-face {
   font-family: 'courier new';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7496,7 +7496,7 @@
 }
 @font-face {
   font-family: 'courier new';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7512,7 +7512,7 @@
 }
 @font-face {
   font-family: 'courier new';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7528,7 +7528,7 @@
 }
 @font-face {
   font-family: 'courier new';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7544,7 +7544,7 @@
 }
 @font-face {
   font-family: 'courier new';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7560,7 +7560,7 @@
 }
 @font-face {
   font-family: 'DejaVu Sans Mono';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7576,7 +7576,7 @@
 }
 @font-face {
   font-family: 'DejaVu Sans Mono';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7592,7 +7592,7 @@
 }
 @font-face {
   font-family: 'DejaVu Sans Mono';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7608,7 +7608,7 @@
 }
 @font-face {
   font-family: 'DejaVu Sans Mono';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7624,7 +7624,7 @@
 }
 @font-face {
   font-family: 'DejaVu Sans Mono';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7640,7 +7640,7 @@
 }
 @font-face {
   font-family: docs-Consolas;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7656,7 +7656,7 @@
 }
 @font-face {
   font-family: docs-Consolas;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7672,7 +7672,7 @@
 }
 @font-face {
   font-family: docs-Consolas;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7688,7 +7688,7 @@
 }
 @font-face {
   font-family: docs-Consolas;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7704,7 +7704,7 @@
 }
 @font-face {
   font-family: docs-Consolas;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7720,7 +7720,7 @@
 }
 @font-face {
   font-family: gitbook-code-font;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7736,7 +7736,7 @@
 }
 @font-face {
   font-family: gitbook-code-font;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7752,7 +7752,7 @@
 }
 @font-face {
   font-family: gitbook-code-font;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7768,7 +7768,7 @@
 }
 @font-face {
   font-family: gitbook-code-font;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7784,7 +7784,7 @@
 }
 @font-face {
   font-family: gitbook-code-font;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7800,7 +7800,7 @@
 }
 @font-face {
   font-family: Menlo;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7816,7 +7816,7 @@
 }
 @font-face {
   font-family: Menlo;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7832,7 +7832,7 @@
 }
 @font-face {
   font-family: Menlo;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7848,7 +7848,7 @@
 }
 @font-face {
   font-family: Menlo;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7864,7 +7864,7 @@
 }
 @font-face {
   font-family: Menlo;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7880,7 +7880,7 @@
 }
 @font-face {
   font-family: Meslo;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7896,7 +7896,7 @@
 }
 @font-face {
   font-family: Meslo;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7912,7 +7912,7 @@
 }
 @font-face {
   font-family: Meslo;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -7928,7 +7928,7 @@
 }
 @font-face {
   font-family: Meslo;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -7944,7 +7944,7 @@
 }
 @font-face {
   font-family: Meslo;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -7960,7 +7960,7 @@
 }
 @font-face {
   font-family: Monaco;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -7976,7 +7976,7 @@
 }
 @font-face {
   font-family: Monaco;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -7992,7 +7992,7 @@
 }
 @font-face {
   font-family: Monaco;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8008,7 +8008,7 @@
 }
 @font-face {
   font-family: Monaco;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8024,7 +8024,7 @@
 }
 @font-face {
   font-family: Monaco;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8040,7 +8040,7 @@
 }
 @font-face {
   font-family: Monospace;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8056,7 +8056,7 @@
 }
 @font-face {
   font-family: Monospace;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8072,7 +8072,7 @@
 }
 @font-face {
   font-family: Monospace;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8088,7 +8088,7 @@
 }
 @font-face {
   font-family: Monospace;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8104,7 +8104,7 @@
 }
 @font-face {
   font-family: Monospace;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8120,7 +8120,7 @@
 }
 @font-face {
   font-family: monospaced;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8136,7 +8136,7 @@
 }
 @font-face {
   font-family: monospaced;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8152,7 +8152,7 @@
 }
 @font-face {
   font-family: monospaced;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8168,7 +8168,7 @@
 }
 @font-face {
   font-family: monospaced;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8184,7 +8184,7 @@
 }
 @font-face {
   font-family: monospaced;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8200,7 +8200,7 @@
 }
 @font-face {
   font-family: 'Roboto Mono';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8216,7 +8216,7 @@
 }
 @font-face {
   font-family: 'Roboto Mono';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8232,7 +8232,7 @@
 }
 @font-face {
   font-family: 'Roboto Mono';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8248,7 +8248,7 @@
 }
 @font-face {
   font-family: 'Roboto Mono';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8264,7 +8264,7 @@
 }
 @font-face {
   font-family: 'Roboto Mono';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8280,7 +8280,7 @@
 }
 @font-face {
   font-family: 'Source Code Pro';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8296,7 +8296,7 @@
 }
 @font-face {
   font-family: 'Source Code Pro';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8312,7 +8312,7 @@
 }
 @font-face {
   font-family: 'Source Code Pro';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8328,7 +8328,7 @@
 }
 @font-face {
   font-family: 'Source Code Pro';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8344,7 +8344,7 @@
 }
 @font-face {
   font-family: 'Source Code Pro';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8360,7 +8360,7 @@
 }
 @font-face {
   font-family: 'source-code-pro';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8376,7 +8376,7 @@
 }
 @font-face {
   font-family: 'source-code-pro';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8392,7 +8392,7 @@
 }
 @font-face {
   font-family: 'source-code-pro';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8408,7 +8408,7 @@
 }
 @font-face {
   font-family: 'source-code-pro';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8424,7 +8424,7 @@
 }
 @font-face {
   font-family: 'source-code-pro';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8440,7 +8440,7 @@
 }
 @font-face {
   font-family: 'SourceCodePro';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8456,7 +8456,7 @@
 }
 @font-face {
   font-family: 'SourceCodePro';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8472,7 +8472,7 @@
 }
 @font-face {
   font-family: 'SourceCodePro';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8488,7 +8488,7 @@
 }
 @font-face {
   font-family: 'SourceCodePro';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8504,7 +8504,7 @@
 }
 @font-face {
   font-family: 'SourceCodePro';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8520,7 +8520,7 @@
 }
 @font-face {
   font-family: 'PT Mono';
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8536,7 +8536,7 @@
 }
 @font-face {
   font-family: 'PT Mono';
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8552,7 +8552,7 @@
 }
 @font-face {
   font-family: 'PT Mono';
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8568,7 +8568,7 @@
 }
 @font-face {
   font-family: 'PT Mono';
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8584,7 +8584,7 @@
 }
 @font-face {
   font-family: 'PT Mono';
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8600,7 +8600,7 @@
 }
 @font-face {
   font-family: Ubuntu Mono;
-  src: local('SF Mono LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
+  src: local('SF Mono Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -8616,7 +8616,7 @@
 }
 @font-face {
   font-family: Ubuntu Mono;
-  src: local('SF Mono RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
+  src: local('SF Mono Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -8632,7 +8632,7 @@
 }
 @font-face {
   font-family: Ubuntu Mono;
-  src: local('SF Mono MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
+  src: local('SF Mono Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -8648,7 +8648,7 @@
 }
 @font-face {
   font-family: Ubuntu Mono;
-  src: local('SF Mono SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Mono Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -8664,7 +8664,7 @@
 }
 @font-face {
   font-family: Ubuntu Mono;
-  src: local('SF Mono BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
+  src: local('SF Mono Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -8680,7 +8680,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text ThinItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-ThinItalic.otf") format('OpenType');
+  src: local('SF Compact Text Thin Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-ThinItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -8696,7 +8696,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf") format('OpenType');
+  src: local('SF Compact Text Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -8712,7 +8712,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf") format('OpenType');
+  src: local('SF Compact Text Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -8728,7 +8728,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf") format('OpenType');
+  src: local('SF Compact Text Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -8744,7 +8744,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Compact Text Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -8760,7 +8760,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src: local('SF Compact Text BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf") format('OpenType');
+  src: local('SF Compact Text Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
@@ -8776,7 +8776,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text ThinItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-ThinItalic.otf") format('OpenType');
+  src: local('SF Compact Text Thin Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-ThinItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -8792,7 +8792,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text LightItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf") format('OpenType');
+  src: local('SF Compact Text Light Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -8808,7 +8808,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text RegularItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf") format('OpenType');
+  src: local('SF Compact Text Regular Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -8824,7 +8824,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text MediumItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf") format('OpenType');
+  src: local('SF Compact Text Medium Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -8840,7 +8840,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text SemiboldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf") format('OpenType');
+  src: local('SF Compact Text Semibold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -8856,7 +8856,7 @@
 }
 @font-face {
   font-family: Mulish;
-  src: local('SF Compact Text BoldItalic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf") format('OpenType');
+  src: local('SF Compact Text Bold Italic') , url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf") format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
