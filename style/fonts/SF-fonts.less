@@ -1,0 +1,16 @@
+@import 'fn-load-fonts.less';
+
+.load('SF Pro Text', @tarSF, @allWeights, @generalUnicode, false);
+.load('SF Mono', @tarMo, @usualWeights, @allUnicode);
+.load('SF Compact Text', @tarCM, @allWeights, @generalUnicode, false);
+.load('SF Pro Rounded', @tarPR, @allWeights, @generalUnicode, false);
+.load('SF Compact Rounded', @tarCR, @allWeights, @generalUnicode, false);
+
+@font-face {
+  font-family: 'XcodeDigits';
+  src: local('Xcode Digits Regular'), url(https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/XcodeDigits-regular.ttf);
+  unicode-range: U+0030-0039;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
