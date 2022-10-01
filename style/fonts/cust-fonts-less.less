@@ -1,10 +1,11 @@
 @import 'fn-load-fonts.less';
 
-.load(@textFamilies, @tarSF, @allWeights, @generalUnicode, false);
-.load(@boldFamilies, @tarSF, @boldWeights, @generalUnicode, false);
-.load(@monoFamilies, @tarMo, @usualWeights, @allUnicode);
-.load(@compactFamilies, @tarCM, @allWeights, @generalUnicode);
-.load-local(@zhFamilies, @tarCM, @allWeights, @zhUnicode, @styles);
+.load-fonts(@textFamilies, @tarPT, @allWeights, @generalUnicode);
+.load-stretch-fonts(@textFamilies, @tarCd, @allWeights, @generalUnicode, true);
+.load-fonts(@boldFamilies, @tarPT, @boldWeights, @generalUnicode);
+.load-fonts(@monoFamilies, @tarMo, @monoWeights, @allUnicode, true);
+.load-fonts(@compactFamilies, @tarCM, @allWeights, @generalUnicode, true);
+.load-local-fonts(@zhFamilies, @tarCM, @allWeights, @zhUnicode, @styles, true);
 
 @font-face {
   font-family: 'XcodeDigits';
