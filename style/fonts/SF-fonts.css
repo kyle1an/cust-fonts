@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Thin.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Thin.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: normal;
@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-ThinItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-ThinItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -16,7 +16,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Light.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Light.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: normal;
@@ -24,7 +24,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-LightItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-LightItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -32,7 +32,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Regular.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Regular.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: normal;
@@ -40,7 +40,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-RegularItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-RegularItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -48,7 +48,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Medium.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Medium.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: normal;
@@ -56,7 +56,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-MediumItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-MediumItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -64,7 +64,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Semibold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Semibold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: normal;
@@ -72,7 +72,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-SemiboldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-SemiboldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -80,7 +80,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Bold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Bold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: normal;
@@ -88,7 +88,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-BoldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-BoldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
@@ -96,7 +96,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Heavy.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Heavy.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: normal;
@@ -104,7 +104,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-HeavyItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-HeavyItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: italic;
@@ -112,7 +112,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-Black.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-Black.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: normal;
@@ -120,7 +120,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Text-BlackItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Text-BlackItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: italic;
@@ -128,7 +128,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Light') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Light.otf') format('OpenType');
+  src: local('SF Mono Light') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-Light.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: normal;
@@ -136,7 +136,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Light Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-LightItalic.otf') format('OpenType');
+  src: local('SF Mono Light Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-LightItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 300;
   font-style: italic;
@@ -144,7 +144,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Regular') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf') format('OpenType');
+  src: local('SF Mono Regular') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-Regular.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: normal;
@@ -152,7 +152,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Regular Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf') format('OpenType');
+  src: local('SF Mono Regular Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-RegularItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 400;
   font-style: italic;
@@ -160,7 +160,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Medium') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf') format('OpenType');
+  src: local('SF Mono Medium') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-Medium.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: normal;
@@ -168,7 +168,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Medium Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf') format('OpenType');
+  src: local('SF Mono Medium Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-MediumItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 500;
   font-style: italic;
@@ -176,7 +176,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Semibold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf') format('OpenType');
+  src: local('SF Mono Semibold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-Semibold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: normal;
@@ -184,7 +184,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Semibold Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf') format('OpenType');
+  src: local('SF Mono Semibold Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-SemiboldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 600;
   font-style: italic;
@@ -192,7 +192,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Bold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf') format('OpenType');
+  src: local('SF Mono Bold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-Bold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: normal;
@@ -200,7 +200,7 @@
 }
 @font-face {
   font-family: 'SF Mono';
-  src: local('SF Mono Bold Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf') format('OpenType');
+  src: local('SF Mono Bold Italic') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Mono-BoldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF, U+0250-02AF, U+1D00-1DBF, U+2190-22FF;
   font-weight: 700;
   font-style: italic;
@@ -208,7 +208,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Thin.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Thin.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: normal;
@@ -216,7 +216,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-ThinItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-ThinItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -224,7 +224,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Light.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: normal;
@@ -232,7 +232,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-LightItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -240,7 +240,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Regular.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: normal;
@@ -248,7 +248,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-RegularItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -256,7 +256,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Medium.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: normal;
@@ -264,7 +264,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-MediumItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -272,7 +272,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Semibold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: normal;
@@ -280,7 +280,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-SemiboldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -288,7 +288,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Bold.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: normal;
@@ -296,7 +296,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-BoldItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
@@ -304,7 +304,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Heavy.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Heavy.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: normal;
@@ -312,7 +312,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-HeavyItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-HeavyItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: italic;
@@ -320,7 +320,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Black.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-Black.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: normal;
@@ -328,7 +328,7 @@
 }
 @font-face {
   font-family: 'SF Compact Text';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BlackItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Text-BlackItalic.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: italic;
@@ -336,7 +336,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Thin.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Thin.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: normal;
@@ -344,7 +344,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-ThinItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-ThinItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -352,7 +352,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Light.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Light.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: normal;
@@ -360,7 +360,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-LightItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-LightItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -368,7 +368,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Regular.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Regular.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: normal;
@@ -376,7 +376,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-RegularItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-RegularItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -384,7 +384,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Medium.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Medium.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: normal;
@@ -392,7 +392,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-MediumItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-MediumItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -400,7 +400,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Semibold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Semibold.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: normal;
@@ -408,7 +408,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-SemiboldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-SemiboldItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -416,7 +416,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Bold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Bold.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: normal;
@@ -424,7 +424,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-BoldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-BoldItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
@@ -432,7 +432,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Heavy.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Heavy.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: normal;
@@ -440,7 +440,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-HeavyItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-HeavyItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: italic;
@@ -448,7 +448,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-Black.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-Black.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: normal;
@@ -456,7 +456,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro-Rounded-BlackItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro-Rounded-BlackItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: italic;
@@ -464,7 +464,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Thin.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Thin.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: normal;
@@ -472,7 +472,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-ThinItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-ThinItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-style: italic;
@@ -480,7 +480,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Light.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Light.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: normal;
@@ -488,7 +488,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-LightItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-LightItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-style: italic;
@@ -496,7 +496,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Regular.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Regular.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: normal;
@@ -504,7 +504,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-RegularItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-RegularItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-style: italic;
@@ -512,7 +512,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Medium.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Medium.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: normal;
@@ -520,7 +520,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-MediumItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-MediumItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-style: italic;
@@ -528,7 +528,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Semibold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Semibold.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: normal;
@@ -536,7 +536,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-SemiboldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-SemiboldItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-style: italic;
@@ -544,7 +544,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Bold.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Bold.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: normal;
@@ -552,7 +552,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-BoldItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-BoldItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-style: italic;
@@ -560,7 +560,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Heavy.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Heavy.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: normal;
@@ -568,7 +568,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-HeavyItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-HeavyItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-style: italic;
@@ -576,7 +576,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-Black.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-Black.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: normal;
@@ -584,7 +584,7 @@
 }
 @font-face {
   font-family: 'SF Compact Rounded';
-  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Rounded-BlackItalic.otf') format('OpenType');
+  src:  url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Compact-Rounded-BlackItalic.otf') format('OpenType');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-style: italic;
@@ -592,7 +592,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Thin') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Thin') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 200;
   font-stretch: condensed;
@@ -600,7 +600,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Light') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Light') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 300;
   font-stretch: condensed;
@@ -608,7 +608,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Regular') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Regular') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 400;
   font-stretch: condensed;
@@ -616,7 +616,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Medium') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Medium') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 500;
   font-stretch: condensed;
@@ -624,7 +624,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Semibold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Semibold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 600;
   font-stretch: condensed;
@@ -632,7 +632,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Bold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Bold') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 700;
   font-stretch: condensed;
@@ -640,7 +640,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Heavy') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Heavy') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 800;
   font-stretch: condensed;
@@ -648,7 +648,7 @@
 }
 @font-face {
   font-family: 'SF Pro Text';
-  src: local('SF Pro Condensed Black') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Pro.ttf') format('TrueType');
+  src: local('SF Pro Condensed Black') , url('https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts/Fonts/SF-Pro.woff2') format('woff2');
   unicode-range: U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF;
   font-weight: 900;
   font-stretch: condensed;
