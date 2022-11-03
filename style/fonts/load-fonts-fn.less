@@ -1,6 +1,5 @@
-@repo: 'https://raw.githubusercontent.com/kyle1an/SF-1/main';
-@repo: 'https://cdn.jsdelivr.net/gh/kyle1an/SF-1@main';
-@repo: 'https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master';
+@repo: 'https://raw.githubusercontent.com/kyle1an/SF-Fonts/master';
+@repo: 'https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts';
 
 @styles: {
   normal: '';
@@ -48,7 +47,7 @@
 @tarPT: {
   nam: 'SF Pro Text';
   dir: '/Fonts/SF-Pro-Text-';
-  ext: 'otf';
+  ext: 'woff2';
 }
 
 @tarMo: {
@@ -78,12 +77,14 @@
 @tarCd: {
   nam: 'SF Pro';
   dir: '/Fonts/SF-Pro';
-  ext: 'ttf';
+  ext: 'woff2';
 }
 
 @formats: {
   @ttf: TrueType;
   @otf: OpenType;
+  @woff: woff;
+  @woff2: woff2;
 }
 
 .load-fonts(@families, @tar, @weights, @unicode, @local: false) {
@@ -114,7 +115,7 @@
   src: if(@local, local('@{nam} @{weight-key}@{italic}') e(','),) url('@{repo}@{dir}@{weight-key}@{style-val}.@{ext}') format('@{format}');
 }
 
-.load-local-fonts(@families, @tar, @weights, @unicode, @styles, @local: true) {
+.load-local-fonts(@families, @tar, @weights, @unicode, @styles, @local: false) {
   each(@families, .(@family, @k1, @i1) {
     @font-face {
       font-family: @family;
@@ -125,7 +126,7 @@
   })
 }
 
-.load-stretch-fonts(@families, @tar, @weights, @unicode, @local: true) {
+.load-stretch-fonts(@families, @tar, @weights, @unicode, @local: false) {
   each(@families, .(@family, @k1, @i1) {
     each(@weights, .(@numeric, @weight-key, @i) {
       @font-face {
