@@ -1,37 +1,5 @@
-@repo: 'https://raw.githubusercontent.com/meewill/SF/main';
-@repo: 'https://cdn.jsdelivr.net/gh/meewill/SF';
-
-@styles: {
-  normal: '';
-  italic: 'Italic';
-}
-
-@thinWeights: {
-  Thin: 200;
-}
-
-@usualWeights: {
-  Light: 300;
-  Regular: 400;
-  Medium: 500;
-  Semibold: 600;
-  Bold: 700;
-}
-
-@boldWeights: {
-  Semibold: 600;
-  Bold: 700;
-}
-
-@monoWeights: {
-  Thin: 200;
-  Light: 300;
-  Medium: 400;
-  Medium: 500;
-  Semibold: 600;
-  Bold: 700;
-  Heavy: 800;
-}
+@url-path-prefix: 'https://raw.githubusercontent.com/meewill/SF/main';
+@url-path-prefix: 'https://cdn.jsdelivr.net/gh/meewill/SF';
 
 @allWeights: {
   Thin: 200;
@@ -44,40 +12,14 @@
   Black: 900;
 }
 
-@tarPT: {
-  nam: 'SF Pro Text';
-  dir: '/Fonts/SF-Pro-Text-';
-  ext: 'woff2';
-}
-
-@tarMo: {
-  nam: 'SF Mono';
-  dir: '/Fonts/SF-Mono-';
-  ext: 'woff2';
-}
-
-@tarCM: {
-  nam: 'SF Compact Text';
-  dir: '/Fonts/SF-Compact-Text-';
-  ext: 'woff2';
-}
-
-@tarPR: {
-  nam: 'SF Pro Rounded';
-  dir: '/Fonts/SF-Pro-Rounded-';
-  ext: 'otf';
-}
-
-@tarCR: {
-  nam: 'SF Compact Rounded';
-  dir: '/Fonts/SF-Compact-Rounded-';
-  ext: 'otf';
-}
-
-@tarCd: {
-  nam: 'SF Pro';
-  dir: '/Fonts/SF-Pro';
-  ext: 'woff2';
+@monoWeights: {
+  Thin: 200;
+  Light: 300;
+  Medium: 400;
+  Medium: 500;
+  Semibold: 600;
+  Bold: 700;
+  Heavy: 800;
 }
 
 @formats: {
@@ -87,18 +29,21 @@
   @woff2: woff2;
 }
 
-.load-fonts(@families, @tar, @weights, @unicode, @local: false) {
-  each(@families, .(@family, @k1, @i1) {
-    each(@weights, .(@numeric, @weight-key, @i) {
-      each(@styles, .(@style-val, @style, @i2) {
+.load-fonts-for(@families, @tar, @weights, @unicode, @local: false) {
+  each(@families, .(@family) {
+    each(@weights, .(@numeric, @weight-key) {
+      each({
+        normal: '';
+        italic: 'Italic';
+      }, .(@style-val, @style-key) {
         // @keyword: extract(@weight, 1);
         // @numeric: extract(@weight, 2);
         @font-face {
           font-family: @family;
-          .use-src(@family, @tar, @repo, @weight-key, @style-val, @numeric, @style, @local);
+          .use-src(@family, @tar, @weight-key, @style-val, @numeric, @style-key, @local);
           unicode-range: @unicode;
           font-weight: @numeric;
-          font-style: @style;
+          font-style: @style-key;
           font-display: swap;
         }
       })
@@ -106,17 +51,17 @@
   })
 }
 
-.use-src(@family, @tar, @repo, @weight-key, @style-val, @numeric, @style, @local) {
+.use-src(@family, @tar, @weight-key, @style-val, @numeric, @style-key, @local) {
   @nam: @tar[nam];
   @dir: @tar[dir];
   @ext: @tar[ext];
   @format: @formats[@@ext];
   @italic: if(@style-val='', e(''), ' Italic');
-  src: if(@local, local('@{nam} @{weight-key}@{italic}') e(','),) url('@{repo}@{dir}@{weight-key}@{style-val}.@{ext}') format('@{format}');
+  src: if(@local, local('@{nam} @{weight-key}@{italic}') e(','),) url('@{url-path-prefix}@{dir}@{weight-key}@{style-val}.@{ext}') format('@{format}');
 }
 
-.load-local-fonts(@families, @tar, @weights, @unicode, @styles, @local: false) {
-  each(@families, .(@family, @k1, @i1) {
+.load-local-fonts-for(@families, @tar, @weights, @unicode, @local: false) {
+  each(@families, .(@family) {
     @font-face {
       font-family: @family;
       src: local(@family);
@@ -126,12 +71,12 @@
   })
 }
 
-.load-stretch-fonts(@families, @tar, @weights, @unicode, @local: false) {
-  each(@families, .(@family, @k1, @i1) {
-    each(@weights, .(@numeric, @weight-key, @i) {
+.load-stretch-fonts-for(@families, @tar, @weights, @unicode, @local: false) {
+  each(@families, .(@family) {
+    each(@weights, .(@numeric, @weight-key) {
       @font-face {
         font-family: @family;
-        .use-stretch-src(@family, @tar, @repo, @weight-key, '', @numeric, '', @local);
+        .use-stretch-src(@family, @tar, @weight-key, '', @numeric, '', @local);
         unicode-range: @unicode;
         font-weight: @numeric;
         font-stretch: condensed;
@@ -141,12 +86,12 @@
   })
 }
 
-.use-stretch-src(@family, @tar, @repo, @weight-key, @style-val, @numeric, @style, @local) {
+.use-stretch-src(@family, @tar, @weight-key, @style-val, @numeric, @style-key, @local) {
   @nam: @tar[nam];
   @dir: @tar[dir];
   @ext: @tar[ext];
   @format: @formats[@@ext];
-  src: if(@local, local('@{nam} Condensed @{weight-key}') e(','),) url('@{repo}@{dir}.@{ext}') format('@{format}');
+  src: if(@local, local('@{nam} Condensed @{weight-key}') e(','),) url('@{url-path-prefix}@{dir}.@{ext}') format('@{format}');
 }
 
 @generalUnicode: e('U+0000-024F'),

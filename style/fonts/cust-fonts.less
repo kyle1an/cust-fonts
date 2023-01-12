@@ -1,11 +1,43 @@
 @import 'load-fonts-fn.less';
 
-.load-fonts(@textFamilies, @tarPT, @allWeights, @generalUnicode);
-.load-stretch-fonts(@textFamilies, @tarCd, @allWeights, @generalUnicode, true);
-.load-fonts(@boldFamilies, @tarPT, @boldWeights, @generalUnicode);
-.load-fonts(@monoFamilies, @tarMo, @monoWeights, @allUnicode, true);
-.load-fonts(@compactFamilies, @tarCM, @allWeights, @generalUnicode, true);
-.load-local-fonts(@zhFamilies, @tarCM, @allWeights, @zhUnicode, @styles, true);
+.load-fonts-for(@textFamilies, {
+  nam: 'SF Pro Text';
+  dir: '/Fonts/SF-Pro-Text-';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode);
+
+.load-stretch-fonts-for(@textFamilies, {
+  nam: 'SF Pro';
+  dir: '/Fonts/SF-Pro';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode, true);
+
+.load-fonts-for(@boldFamilies, {
+  nam: 'SF Pro Text';
+  dir: '/Fonts/SF-Pro-Text-';
+  ext: 'woff2';
+}, {
+  Semibold: 600;
+  Bold: 700;
+}, @generalUnicode);
+
+.load-fonts-for(@monoFamilies, {
+  nam: 'SF Mono';
+  dir: '/Fonts/SF-Mono-';
+  ext: 'woff2';
+}, @monoWeights, @allUnicode, true);
+
+.load-fonts-for(@compactFamilies, {
+  nam: 'SF Compact Text';
+  dir: '/Fonts/SF-Compact-Text-';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode, true);
+
+.load-local-fonts-for(@zhFamilies, {
+  nam: 'SF Compact Text';
+  dir: '/Fonts/SF-Compact-Text-';
+  ext: 'woff2';
+}, @allWeights, @zhUnicode, true);
 
 @font-face {
   font-family: 'XcodeDigits';

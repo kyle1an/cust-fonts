@@ -1,11 +1,46 @@
 @import 'load-fonts-fn.less';
 
-.load-fonts('SF Pro Text', @tarPT, @allWeights, @generalUnicode);
-.load-fonts('SF Mono', @tarMo, @usualWeights, @allUnicode, true);
-.load-fonts('SF Compact Text', @tarCM, @allWeights, @generalUnicode);
-.load-fonts('SF Pro Rounded', @tarPR, @allWeights, @generalUnicode);
-.load-fonts('SF Compact Rounded', @tarCR, @allWeights, @generalUnicode);
-.load-stretch-fonts('SF Pro Text', @tarCd, @allWeights, @generalUnicode, true);
+.load-fonts-for('SF Pro Text', {
+  nam: 'SF Pro Text';
+  dir: '/Fonts/SF-Pro-Text-';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode);
+
+.load-fonts-for('SF Mono', {
+  nam: 'SF Mono';
+  dir: '/Fonts/SF-Mono-';
+  ext: 'woff2';
+}, {
+  Light: 300;
+  Regular: 400;
+  Medium: 500;
+  Semibold: 600;
+  Bold: 700;
+}, @allUnicode, true);
+
+.load-fonts-for('SF Compact Text', {
+  nam: 'SF Compact Text';
+  dir: '/Fonts/SF-Compact-Text-';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode);
+
+.load-fonts-for('SF Pro Rounded', {
+  nam: 'SF Pro Rounded';
+  dir: '/Fonts/SF-Pro-Rounded-';
+  ext: 'otf';
+}, @allWeights, @generalUnicode);
+
+.load-fonts-for('SF Compact Rounded', {
+  nam: 'SF Compact Rounded';
+  dir: '/Fonts/SF-Compact-Rounded-';
+  ext: 'otf';
+}, @allWeights, @generalUnicode);
+
+.load-stretch-fonts-for('SF Pro Text', {
+  nam: 'SF Pro';
+  dir: '/Fonts/SF-Pro';
+  ext: 'woff2';
+}, @allWeights, @generalUnicode, true);
 
 @font-face {
   font-family: 'XcodeDigits';
