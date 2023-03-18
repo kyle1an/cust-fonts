@@ -1,0 +1,320 @@
+/* ==UserStyle==
+@name			    -fonts
+@author			  Cascadea User
+@version		  1.0.0
+@namespace		cascadea41492846
+@preprocessor	less
+==/UserStyle== */
+@-moz-document regexp('(https?|chrome-extension):\\/\\/(?!(localhost|127.0.0.1)).*') {
+// @import url("https://cdn.jsdelivr.net/gh/kyle1an/cust-fonts@master/cust-fonts-less.css");
+// https://purge.jsdelivr.net/gh/kyle1an/cust-fonts/style/fonts/SF-fonts@22.1.min.css
+.at-font-faces(@textFamilies, {
+  nam: 'SF Pro Text';
+  dir: '/Fonts/SF-Pro-Text-';
+  ext: 'woff2';
+}
+
+, @allWeights, @generalUnicode);
+/*    */
+.at-stretch-font-faces(@textFamilies, {
+  nam: 'SF Pro';
+  dir: '/Fonts/SF-Pro';
+  ext: 'woff2';
+}
+
+, @allWeights, @generalUnicode, true);
+/*    */
+@boldWeights: 600 Semibold,
+700 Bold;
+.at-font-faces(@boldFamilies, {
+  nam: 'SF Pro Text';
+  dir: '/Fonts/SF-Pro-Text-';
+  ext: 'woff2';
+}
+
+, @boldWeights, @generalUnicode);
+/*    */
+.at-font-faces(@monoFamilies, {
+  nam: 'SF Mono';
+  dir: '/Fonts/SFMono-';
+  ext: 'woff2';
+}
+
+, @monoWeights, @allUnicode, true, true, 'Fira Mono');
+/*    */
+.at-font-faces(@compactFamilies, {
+  nam: 'SF Compact Text';
+  dir: '/Fonts/SF-Compact-Text-';
+  ext: 'woff2';
+}
+
+, @allWeights, @generalUnicode, false);
+/*    */
+.at-local-font-faces(@zhFamilies, {
+  nam: 'SF Compact Text';
+  dir: '/Fonts/SF-Compact-Text-';
+  ext: 'woff2';
+}
+
+, @allWeights, @zhUnicode, true);
+@zhFamilies: '宋体',
+'微軟正黑體',
+'微软雅黑',
+'Hiragino Sans GB',
+'Microsoft JhengHei',
+'Microsoft Yahei';
+/*
+  Inter
+  Fira Code
+  Poppins
+  Graphik
+  Charlie Text
+  Charlie Sans
+  Averta
+  */
+// @compactFamilies: 'SF Compact Text',
+// Mulish;
+@textFamilies: 'SF Pro Text',
+'SF Pro Display'; // Akzidenz,
+@compactFamilies: 'SF Compact Text',
+'SF Compact', // AlibabaPuHuiTi,
+'Arial', // 'Arial Unicode MS',
+Arimo,
+Avenir,
+'Benton Sans', // 'Crisp Noto Sans Regular',
+// Content-font,
+// CustomSansSerif,
+'dosis', // font-regular,
+Geneva, // gitbook-content-font,
+'GitLab Sans',
+'Helvetica',
+'helvetica Neue',
+HelveticaNeue, // HelveticaNowDisplay-Regular,
+// 'Helvetica Neue For Number',
+// 'HelveticaNeue-Medium',
+// 'HelveticaNeue-Bold',
+Hind, // 'Lantinghei SC',
+lato,
+'Lucida Grande',
+muli, // mwf-segoeui-web,
+Noto,
+'Noto Sans', // 'Noto Sans SC',
+// 'Noto Sans TC',
+'Open Sans',
+opensans,
+'Optimistic Display',
+'PingFang SC',
+'.PingFang SC',
+'PingFangSC', // 'PingFang SC Light',
+// 'PingFangSC-Light',
+// 'PingFangSC-Regular',
+// 'PingFangSC-Medium',
+// 'PingFangSC-Semibold',
+'pt sans',
+'Roboto', // Roboto-Light,
+// Roboto-Regular,
+// Roboto-Medium,
+// sans-serif,
+// 'Segoe UI Web (West European)',
+'Segoe UI',
+'Segoe UI Adjusted',
+'SegoeUI', // '-apple-system',
+// 'Source Han Sans CN',
+'source sans pro', // system-ui,
+'Microsoft YaHei UI',
+Tahoma, // Times,
+// 'Times New Roman',
+'Trebuchet MS',
+'Ubuntu Light',
+Ubuntu,
+'ui-sans-serif',
+Verdana,
+'wf_segoe-ui',
+Whitney, // '方正仿宋_gbk',
+// '宋体',
+// '微軟正黑體',
+'微软雅黑', // 'Hiragino Sans GB',
+// 'Microsoft JhengHei',
+'Microsoft Yahei';
+@boldFamilies: 'Arial Black',
+HelveticaNowDisplay-XBd;
+@monoFamilies: 'SF Mono',
+'SFMono-Regular',
+'Cascadia Mono-SemiLight',
+Consolas,
+Courier,
+'courier new',
+'DejaVu Sans Mono',
+'Droid Sans Mono',
+docs-Consolas,
+gitbook-code-font,
+'JetBrains Mono',
+Menlo,
+'Menlo-Regular',
+Meslo,
+Monaco, // Monospace,
+monospaced,
+'Roboto Mono',
+'Source Code Pro',
+'source-code-pro',
+'SourceCodePro',
+'PT Mono',
+Ubuntu Mono,
+'Noto Mono';
+/**
+       * at-font-faces-fn
+       */
+@url-path-prefix: 'https://raw.githubusercontent.com/meewill/SF/main';
+@url-path-prefix: 'https://cdn.jsdelivr.net/gh/meewill/SF';
+/*  test1 testingcf cloudfare */
+/*  cdn fastly gcore originfastly quantil */
+@allWeights: 200 Thin,
+300 Light,
+400 Regular,
+500 Medium,
+600 Semibold,
+700 Bold,
+800 Heavy,
+900 Black;
+@monoWeights: 200 Thin Regular,
+300 Light Regular,
+400 Medium Regular,
+500 Medium Regular,
+600 Semibold Bold,
+700 Heavy Bold,
+800 Heavy Bold,
+900 Heavy Bold;
+@formats: {
+  @ttf: TrueType;
+  @otf: OpenType;
+  @woff: woff;
+  @woff2: woff2;
+}
+
+.at-font-faces(@families, @tar, @weight-map, @uni-ranges, @local: false, @alt: false, @pri: '') {
+  each(@families, .(@family) {
+    each(@weight-map .(@val ) {
+      @weight-numeric: extract(@val, 1);
+      @weight-keyword: extract(@val, 2);
+      @weight-keyword2: extract(@val, 3);
+      each( {
+        normal: '';
+        italic: 'Italic';
+      }
+
+      , .(@style-val, @style-key) {
+        // @keyword: extract(@weight, 1);
+        // @weight-numeric: extract(@weight, 2);
+        @font-face {
+          font-family: @family;
+          @nam: @tar[nam];
+          @dir: @tar[dir];
+          @ext: @tar[ext];
+          @format: @formats[@@ext];
+          @italic: if(@style-val='', e(''), ' Italic');
+          src: if(@alt, local('@{pri} @{weight-keyword2}@{italic}') e(',') local('@{pri}') e(','), ) if(@local, local('@{nam} @{weight-keyword}@{italic}') e(',') local('@{nam} @{weight-keyword}') e(',') local('@{nam} @{italic}') e(',') local('@{nam}') e(','), ) url('@{url-path-prefix}@{dir}@{weight-keyword}@{style-val}.@{ext}') format('@{format}');
+          unicode-range: @uni-ranges;
+          font-weight: @weight-numeric;
+          font-style: @style-key; // font-display: swap;
+        }
+      }
+
+      )
+    }
+
+    )
+  }
+
+  )
+}
+
+.at-local-font-faces(@families,
+@tar,
+@weight-map,
+@uni-ranges,
+@local: false) {
+  each(@families,
+  .(@family) {
+    @font-face {
+      font-family: @family;
+      src: local(@family);
+      unicode-range: @uni-ranges;
+      /*        font-display: swap; */
+    }
+  }
+
+  )
+}
+
+.at-stretch-font-faces(@families,
+@tar,
+@weight-map,
+@uni-ranges,
+@local: false) {
+  each(@families,
+  .(@family) {
+    each(@weight-map .(@val ) {
+      @weight-numeric: extract(@val, 1);
+      @weight-keyword: extract(@val, 2);
+      @font-face {
+        font-family: @family;
+        @nam: @tar[nam];
+        @dir: @tar[dir];
+        @ext: @tar[ext];
+        @format: @formats[@@ext];
+        src: if(@local, local('@{nam} Condensed @{weight-keyword}') e(','), ) url('@{url-path-prefix}@{dir}.@{ext}') format('@{format}');
+        unicode-range: @uni-ranges;
+        font-weight: @weight-numeric;
+        font-stretch: condensed;
+        /*         font-display: swap; */
+      }
+    }
+
+    )
+  }
+
+  )
+}
+
+@generalUnicode: e('U+0000-024F, U+02B0-052F, U+1DC0-20CF, U+2190-22FF, U+2460-24FF, U+25A0-25FF, U+2700-27FF, U+2900-2BFF, U+2C60-2C7F, U+2DE0-2E7F, U+3200-32FF, U+A640-A69F, U+A700-A7FF, U+E000-F8FF, U+FFF0-FFFF, U+F0000-10FFFF');
+@plusUnicode: e('U+0250-02AF, U+1D00-1DBF, U+2190-22FF');
+@allUnicode: @generalUnicode,
+@plusUnicode;
+@zhUnicode: e('U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+F900-FAFF, U+2F800-2FA1F'); // e('U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF'),
+@font-face {
+  font-family: 'XcodeDigits';
+  src: local('Xcode Digits Regular'), url("https://cdn.jsdelivr.net/gh/meewill/SF/Fonts/XcodeDigits-regular.ttf");
+  unicode-range: U+0030-0039;
+  font-weight: 400;
+  font-style: normal;
+  /*   font-display: swap; */
+}
+
+@font-face {
+  font-family: "empty";
+  src: url("https://cdn.jsdelivr.net/gh/meewill/SF/Fonts/SF-Pro-Text-Regular.woff2");
+  font-weight: 400;
+  unicode-range: @generalUnicode;
+}
+
+@font-face {
+  font-family: "empty";
+  src: url("https://cdn.jsdelivr.net/gh/meewill/SF@latest/plus/empty.woff2");
+  font-weight: 400;
+  unicode-range: U+0020, U+00A0, @zhUnicode;
+}
+
+@font-face {
+  font-family: "emptyz";
+  src: url("https://cdn.jsdelivr.net/gh/meewill/SF/Fonts/SF-Pro-Text-Regular.woff2");
+  font-weight: 400;
+  unicode-range: @generalUnicode, U+5343, U+4E07;
+}
+
+@font-face {
+  font-family: "emptyz";
+  src: url("https://cdn.jsdelivr.net/gh/meewill/SF@latest/plus/empty.woff2");
+  font-weight: 400;
+  unicode-range: U+0020, U+00A0, U+8D5E, U+540C;
+}
+}

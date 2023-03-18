@@ -1,18 +1,18 @@
 @import 'load-fonts-fn.less';
 
-.load-fonts-for(@textFamilies, {
+.at-font-faces(@textFamilies, {
   nam: 'SF Pro Text';
   dir: '/Fonts/SF-Pro-Text-';
   ext: 'woff2';
 }, @allWeights, @generalUnicode);
 
-.load-stretch-fonts-for(@textFamilies, {
+.at-stretch-font-faces(@textFamilies, {
   nam: 'SF Pro';
   dir: '/Fonts/SF-Pro';
   ext: 'woff2';
 }, @allWeights, @generalUnicode, true);
 
-.load-fonts-for(@boldFamilies, {
+.at-font-faces(@boldFamilies, {
   nam: 'SF Pro Text';
   dir: '/Fonts/SF-Pro-Text-';
   ext: 'woff2';
@@ -21,19 +21,19 @@
   Bold: 700;
 }, @generalUnicode);
 
-.load-fonts-for(@monoFamilies, {
+.at-font-faces(@monoFamilies, {
   nam: 'SF Mono';
   dir: '/Fonts/SF-Mono-';
   ext: 'woff2';
 }, @monoWeights, @allUnicode, true);
 
-.load-fonts-for(@compactFamilies, {
+.at-font-faces(@compactFamilies, {
   nam: 'SF Compact Text';
   dir: '/Fonts/SF-Compact-Text-';
   ext: 'woff2';
 }, @allWeights, @generalUnicode, true);
 
-.load-local-fonts-for(@zhFamilies, {
+.at-local-font-faces(@zhFamilies, {
   nam: 'SF Compact Text';
   dir: '/Fonts/SF-Compact-Text-';
   ext: 'woff2';
